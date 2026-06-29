@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ef008/v1
+canonical_location: https://kanripo.org/bkk/KR3ef008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒微旨論
+  identifiers:
+    krp: KR3ef008
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04370
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef008.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - seq: 1
+    filename: KR3ef008_001.yaml
+    hash: sha256:2c7628bf9bb71fbd34d473239a86d83f53f37b37c6152d15c901933c608a4550
+table_of_contents: []
+hash: sha256:a5e8aa50c80b4977df519484b7200f76bcf82ccf74db1408ee6dc531f5b1dc25
